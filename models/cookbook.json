@@ -1,5 +1,6 @@
 [
     {"name" : "Water", "quantity" : "1 cup"},
     {"name" : "Eggs" , "quantity" : "3"},
-    {"name" : "Flour" , "quantity" : "1 cup"}
+    {"name" : "Flour" , "quantity" : "1 cup"},
+    {"name" : "Sugar" , "quantity" : "1/2 cup"}
 ]
